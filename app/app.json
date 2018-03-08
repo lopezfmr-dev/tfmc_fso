@@ -1,18 +1,15 @@
 {
-    "name": "angularjs-template",
-    "description": "A starter project for AngularJS based on John Papa's style guide",
+    "name": "tfmc-fso",
+    "description": "TechnipFMC - Field Service Order",
     "keywords": [
-        "AngularJS",
-        "angular",
+        "TechnipFMC",
+        "FSO",
         "template",
-        "angularjs-template",
-        "seed",
-        "johnpapa",
-        "styleguide",
-        "node",
-        "express"
+        "Field Service Order",
+        "Bases",
+        "Surface"
     ],
-    "repository": "https://github.com/pamigomp/angularjs-template",
+    "repository": "https://github.com/lopezfmr-dev/tfmc_fso.git",
     "success_url": "/",
     "addons": []
 }
